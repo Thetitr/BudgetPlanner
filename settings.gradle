@@ -1,2 +1,3 @@
 rootProject.name = 'BudgetPlanner'
 
+include 'planner', 'costs'

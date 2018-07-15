@@ -1,0 +1,14 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:2.0.3.RELEASE")
+    }
+}
+apply plugin: 'org.springframework.boot'
+bootJar {
+    baseName = 'Costs'
+    version = '0.1.0'
+}
+
