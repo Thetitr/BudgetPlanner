@@ -16,3 +16,6 @@
 * LogBack
 * Docker
 * Eureka
+* Spring Actuator
+* Spring Security
+* CheckStyle

@@ -39,7 +39,8 @@ subprojects {
 
     dependencies {
         compile("org.springframework.boot:spring-boot-gradle-plugin:2.0.3.RELEASE")
-        compile("org.springframework.boot:spring-boot-starter-web")
+        compile("org.springframework.boot:spring-boot-starter-webflux")
+        compile("org.springframework.boot:spring-boot-starter-actuator")
         // tag::actuator[]
     }
 }
