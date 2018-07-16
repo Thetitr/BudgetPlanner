@@ -1,4 +1,4 @@
-package com.boklah.budgetplanner;
+package com.boklah.costs;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.boklah.budgetplanner.controller;
+package com.boklah.costs.controller;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
